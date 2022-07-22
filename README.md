@@ -15,24 +15,7 @@ Two front-ends will be developed.  To make the project quick to develop, the fir
 The styling for this project will be performed lastly with TailwindCSS and a proper UI library that is to be determined.  This will possibly be Material-UI (MUI).
 
 ## Technology Stack Links
-**Backend**
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [Prisma](https://www.prisma.io/)
-
-**Database**
-- [SQLite](https://www.sqlite.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-
-**Front-End**
-- [React](https://reactjs.org/)
-- [Netlify Identity Widget](https://github.com/netlify/netlify-identity-widget)
-- [TailwindCSS](https://tailwindcss.com/)
-- [Material-UI (MUI)](https://mui.com/)
-
-**Additional Items**
-- [Git](https://git-scm.com/)
-- [VS Code](https://code.visualstudio.com/)
+See [link](https://github.com/sagreenxyz/mytodo/wiki/Technologies#technology-stack-links)
 
 # Development Phases
 
