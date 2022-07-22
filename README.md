@@ -6,7 +6,7 @@ This is a application that is intended to explore the full-stack web development
 
 ## Backend
 
-The backend will be constructed of an Express.js server providing an API service.  Initially, the backend will also serve the pages in HTML and JavaScript to allow quick prototyping development.  The database will initially be an array of objects, and later migrated to a local instance of a relational database (SQLite) and then ultimately a separate PostgreSQL database.  Prisma will be the ORM, and seeding functionality will be provided.  As a polishing step, the HTML/JavaScript work will be replaced with a React view engine design.  And finally, the design will be enhanced to provide an outside user the ability to acquire an API key for a separate front-end to be developed.
+The backend will be constructed of an Express.js server providing an API service.  Initially, the backend will also serve the pages in HTML and JavaScript to allow quick prototyping development.  The database will initially be an array of objects, and later migrated to a local instance of a relational database (SQLite) and then ultimately a separate PostgreSQL database.  Prisma will be the ORM, and seeding functionality will be provided.  As a polishing step, the HTML/JavaScript work will be replaced with a React view engine design.  And finally, the design will be enhanced to provide an outside user the ability to acquire an API key for a separate front-end to be developed.  The root route for the API shall be "/api/v1/" to maintain versioning, should a later redesign occur.
 
 ## Front-End
 
