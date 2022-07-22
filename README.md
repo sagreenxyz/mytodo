@@ -14,7 +14,7 @@ Two front-ends will be developed.  To make the project quick to develop, the fir
 
 The styling for this project will be performed lastly with TailwindCSS and a proper UI library that is to be determined.  This will possibly be Material-UI (MUI).
 
-## Technology Stack Links
+# Technology Stack Links
 See [link](https://github.com/sagreenxyz/mytodo/wiki/Technologies#technology-stack-links)
 
 # Development Phases
