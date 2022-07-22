@@ -36,40 +36,4 @@ The styling for this project will be performed lastly with TailwindCSS and a pro
 
 # Development Phases
 
-100. Backend API
-
-- [] Express with root GET route
-- [] Prepare SQLite
-- [] Prepare Prisma
-- [] Add Initial Data Model
-- [] Add Initial Seeding Ability
-
-110. Backend API
-
-- [] User Table CRUD operations
-- [] Task Table CRUD operations
-- [] Document Routes
-
-120. Backend HTML Server
-- [] View for Task Listing
-- [] View for User Listing
-- [] View for Drilldown to Task Listing by User
-- [] Form for Add User
-- [] Form for Add Task to User
-
-130. Backend API Key
-- [] API Key Creation
-- [] API Key Authorization
-
-200. Supabase (PostgreSQL Server) Setup for Authentication/Authorization
-- [] Initialize Bare-Bones React Project, Sans Boilerplate
-- [] Setup Supabase for Authentication
-- [] Implement 
-
-210. Front-End
-- [] Seed and Serve Dummy Dataset (with JSON-Server)
-- [] View for Task Listing
-- [] View for User Listing
-- [] View for Drilldown to Task Listing by User
-- [] Form for Add User
-- [] Form for Add Task to User
+See [link](https://github.com/sagreenxyz/mytodo/wiki/Project-Progress#project-plan)
