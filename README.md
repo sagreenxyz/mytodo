@@ -1,4 +1,4 @@
-# My-To-Do App
+# My To-Do App
 
 This is a application that is intended to explore the full-stack web development paradigm.  At the time of this initial writing, I intend to develop a simple todo application that will take in new tasks to be performed.  The app will also allow the user to view-edit-delete tasks to fully explore CRUD operations.  In addition, to explore database joins, the application will have the ability to maintain a dataset of users and allow the user who is signed-in to delegate a task to another user.
 
